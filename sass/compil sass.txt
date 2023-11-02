@@ -1,0 +1,10 @@
+cd C:\Users\maxim\Desktop\WordPress Local\koukaki\app\public\wp-content\themes\foce-child\sass
+
+
+sass --watch style.scss:style.css
+
+
+OU
+
+sass --watch style.scss:C:\Users\maxim\Desktop\WordPress\wp-content\themes\foce-child\style.css
+
